@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "El sapo pepe",
+        "desc": "Fotografa destaca en fotografía de aguas",
+        "price": 10.000,
+        "img": "./image/sapopepe.jpg"
+    },
+    {
+        "id": 2,
+        "name": "lapavayelpavo",
+        "desc": "Fotografo destacado en eventos de bodas",
+        "price": 100.000,
+        "img": "./image/elpavolapava.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Cuca la loca",
+        "desc": "Fotografa especializada en fotos panorámicas",
+        "price": 8.0000,
+        "img": "./image/lacuca.jpg"
+    }
+]
